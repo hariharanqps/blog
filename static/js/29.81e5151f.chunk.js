@@ -1,0 +1,2 @@
+(this["webpackJsonpcelikk-personal-website"]=this["webpackJsonpcelikk-personal-website"]||[]).push([[29],{1008:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/Avenir-Roman.91cb86ca.woff"}}]);
+//# sourceMappingURL=29.81e5151f.chunk.js.map
